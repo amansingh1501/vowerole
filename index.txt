@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>HomE</title>
+ 
+<style>
+body {
+        background-image: url('bg.jpg');
+} 
+ 
+</style>
+ 
+</head>
+ 
+<body>
+<img border="0" src="../abstract-blue-strip-technology-panoramic-40568536.jpg" width="1334" height="160"></p>
+<p>&nbsp;</p>
+
+</body>
+
+</html>
